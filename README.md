@@ -1,6 +1,8 @@
-# favorite_places
+Favorite Places
 
-A new Flutter project.
+App de galeria de fotos com Flutter - Projeto criado seguindo o curso seguindo o curso: Flutter & Dart - The Complete Guide [2023 Edition] by Maximilian Schwarzmüller.
+
+Seção 13 - Using Native Device Features
 
 ## Getting Started
 
